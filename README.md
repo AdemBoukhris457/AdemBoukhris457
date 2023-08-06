@@ -15,7 +15,4 @@ I am a passionate and driven Computer Science Engineering student with a profoun
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AdemBoukhris457&limit=5&theme=oldie&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=AdemBoukhris457&icon=8&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
