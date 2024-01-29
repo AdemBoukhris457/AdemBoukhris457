@@ -3,7 +3,6 @@ My name is Adem, I am a passionate and driven Computer Science Engineering stude
 To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adem-boukhris-8a1449216/)
-
 [![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/ademboukhris)](https://www.kaggle.com/ademboukhris)
 
 
