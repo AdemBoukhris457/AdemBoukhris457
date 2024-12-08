@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-
+<br>
 <div align="center">
-  <img src="Portrait_of_Niccolo_Machiavelli.jpg" alt="Sample Image" width="300" title="Sample Tooltip" style="margin-bottom: 20px;">
+  <img src="Portrait_of_Niccolo_Machiavelli.jpg" alt="Sample Image" width="300" title="Sample Tooltip">
 </div>
-
+<br>
 
 My name is Adem, I am a passionate and driven Computer Science Engineering student with a profound love for Artificial Intelligence. Two years ago, I embarked on a remarkable journey into the world of AI, delving into both academic and professional projects. Throughout my learning experience, I have embraced the challenges and complexities that AI presents, honing my skills and knowledge in this transformative field. With every project I undertake, I am fueled by a deep fascination for the endless possibilities AI offers, and I am committed to making a positive impact through cutting-edge technology.
 To see my profile in detail, I recommend to look at my LinkedIn profile.
