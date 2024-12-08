@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="Portrait_of_Niccolo_Machiavelli.jpg" alt="Sample Image" width="300" title="Sample Tooltip">
+  <img src="Portrait_of_Niccolo_Machiavelli.jpg" alt="Sample Image" width="300" title="Sample Tooltip" style="margin-bottom: 20px;">
 </div>
 
 
